@@ -1,7 +1,7 @@
 package org.gitsample;
 
 public class Company {
-	
+	//comment
 
 	//Change 2
 
